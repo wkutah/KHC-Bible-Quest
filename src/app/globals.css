@@ -1,26 +1,96 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Game Palette - Bright & Kid Friendly */
+  --pk-blue: #3B82F6;
+  --pk-blue-dark: #1D4ED8;
+  --pk-orange: #F97316;
+  --pk-yellow: #EAB308;
+  --pk-green: #22C55E;
+  --pk-red: #EF4444;
+  --pk-purple: #A855F7;
+
+  --bg-sky: #F0F9FF;
+  --bg-surface: #FFFFFF;
+  --text-main: #1E293B;
+  --text-light: #64748B;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --color-primary: var(--pk-blue);
+  --color-primary-dark: var(--pk-blue-dark);
+  --color-secondary: var(--pk-orange);
+  --color-accent: var(--pk-yellow);
+  --color-success: var(--pk-green);
+  --color-danger: var(--pk-red);
+  --color-royal: var(--pk-purple);
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-background: var(--bg-sky);
+  --color-surface: var(--bg-surface);
+
+  --color-text-main: var(--text-main);
+  --color-text-light: var(--text-light);
+
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
 }
 
 body {
-  background: var(--background);
   color: var(--foreground);
+  background: linear-gradient(to bottom, #7CD2FF 0%, #A5E4FF 50%, #E3F6FF 100%);
+  background-attachment: fixed;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Game Textures */
+.texture-wood {
+  background-color: #8B4513;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.1) 1px, transparent 1px);
+  background-size: 20px 20px;
+  border: 4px solid #5D4037;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3), inset 0 2px 4px rgba(255, 255, 255, 0.2);
+}
+
+.texture-gold {
+  background: linear-gradient(to bottom, #FFD700, #FFA500);
+  border: 2px solid #B8860B;
+  box-shadow: 0 4px 0 #B8860B, 0 6px 4px rgba(0, 0, 0, 0.3);
+  color: #5D4037;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+
+.texture-gold:active {
+  transform: translateY(4px);
+  box-shadow: 0 0 0 #B8860B, inset 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.texture-parchment {
+  background-color: #FDF5E6;
+  border: 2px solid #DEB887;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.text-stroke {
+  -webkit-text-stroke: 2px #5D4037;
+  text-shadow: 0 2px 0 #5D4037;
+}
+
+/* Cloud Animation */
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
 }

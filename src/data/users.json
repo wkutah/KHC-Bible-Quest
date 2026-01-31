@@ -1,0 +1,14 @@
+[
+    {
+        "id": "4975735c-b8cb-4a26-ac6b-d1919f05967f",
+        "username": "wkuta",
+        "passwordHash": "$2b$10$hLPDq3A4EXzDdKw5WGvCGOdAwrKiiNemHeRjg8cj9gCvgeYk89DGi",
+        "stats": {
+            "score": 0,
+            "wordsSolved": 0,
+            "hintsUsed": 0,
+            "highScore": 0
+        },
+        "createdAt": "2026-01-30T20:57:35.425Z"
+    }
+]

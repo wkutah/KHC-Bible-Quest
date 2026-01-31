@@ -1,0 +1,1775 @@
+[
+    {
+        "id": "1",
+        "word": "FAITH",
+        "difficulty": "Beginner",
+        "category": "Core Christian Words",
+        "hints": [
+            "You need this to trust God even when you cannot see",
+            "Hebrews chapter 11 talks a lot about this",
+            "Abraham showed this when he obeyed God"
+        ],
+        "verse": "Hebrews 11:1",
+        "explanation": "Faith means trusting God even when you do not see the answer yet."
+    },
+    {
+        "id": "2",
+        "word": "GRACE",
+        "difficulty": "Beginner",
+        "category": "Core Christian Words",
+        "hints": [
+            "A free gift from God that we don't deserve",
+            "By ____ you have been saved",
+            "It is sufficient for you"
+        ],
+        "verse": "Ephesians 2:8",
+        "explanation": "Grace is getting something good (God's love) that we did not earn."
+    },
+    {
+        "id": "3",
+        "word": "MOSES",
+        "difficulty": "Beginner",
+        "category": "Bible Heroes",
+        "hints": [
+            "He was placed in a basket in the river",
+            "He received the Ten Commandments",
+            "He told Pharaoh to 'Let my people go'"
+        ],
+        "verse": "Exodus 3:10",
+        "explanation": "Moses was the leader who led God's people out of Egypt."
+    },
+    {
+        "id": "4",
+        "word": "SALVATION",
+        "difficulty": "Intermediate",
+        "category": "Core Christian Words",
+        "hints": [
+            "Being saved from sin",
+            "Jesus died on the cross to give us this",
+            "The helmet of _______"
+        ],
+        "verse": "Acts 4:12",
+        "explanation": "Salvation means being rescued from sin and death by Jesus."
+    },
+    {
+        "id": "5",
+        "word": "GETHSEMANE",
+        "difficulty": "Advanced",
+        "category": "Books of the Bible",
+        "hints": [
+            "A garden where Jesus prayed",
+            "The place where Jesus was arrested",
+            "Jesus sweat drops of blood here"
+        ],
+        "verse": "Matthew 26:36",
+        "explanation": "Gethsemane is the garden where Jesus prayed before He went to the cross."
+    },
+    {
+        "id": "26bb860f-20df-480b-8d1c-a913f8d65f87",
+        "word": "ARK",
+        "difficulty": "Beginner",
+        "category": "Bible Stories",
+        "verse": "Genesis 6:14",
+        "explanation": "A large boat built by Noah",
+        "hints": [
+            "It saved Noah’s family",
+            "Animals entered it two by two",
+            "God gave instructions for it",
+            "It survived a flood"
+        ]
+    },
+    {
+        "id": "d536dee7-219b-465a-89b5-ab11cf615c93",
+        "word": "AUTHORITY",
+        "difficulty": "Advanced",
+        "category": "Bible Concepts",
+        "verse": "Matthew 28:18",
+        "explanation": "Power to rule or command",
+        "hints": [
+            "Jesus has this",
+            "It comes from God",
+            "It allows leadership",
+            "It must be used rightly"
+        ]
+    },
+    {
+        "id": "6a683266-5903-4bea-b5b1-9ac4a3e1f9c6",
+        "word": "BREAD",
+        "difficulty": "Beginner",
+        "category": "Bible Symbols",
+        "verse": "John 6:35",
+        "explanation": "Represents life and provision",
+        "hints": [
+            "Jesus called Himself this",
+            "It feeds people",
+            "Used in miracles",
+            "It satisfies hunger"
+        ]
+    },
+    {
+        "id": "dd26c446-8d05-4ad8-b5ce-5a2a1d938cad",
+        "word": "COVENANT",
+        "difficulty": "Advanced",
+        "category": "Bible Themes",
+        "verse": "Genesis 9:13",
+        "explanation": "A sacred agreement",
+        "hints": [
+            "God made one with Noah",
+            "It includes promises",
+            "It involves commitment",
+            "It lasts generations"
+        ]
+    },
+    {
+        "id": "5f3df076-8cdb-4643-ac1d-b9ddce378384",
+        "word": "CROSS",
+        "difficulty": "Beginner",
+        "category": "Bible Symbols",
+        "verse": "Matthew 27:32",
+        "explanation": "Where Jesus died",
+        "hints": [
+            "Jesus carried this",
+            "It represents sacrifice",
+            "It shows God�s love",
+            "It brought salvation"
+        ]
+    },
+    {
+        "id": "aa0d64ce-c2a0-4642-afec-927d7484da37",
+        "word": "FELLOWSHIP",
+        "difficulty": "Advanced",
+        "category": "Christian Life",
+        "verse": "Acts 2:42",
+        "explanation": "Sharing life with believers",
+        "hints": [
+            "Early church practiced this",
+            "It builds unity",
+            "It involves togetherness",
+            "It strengthens faith"
+        ]
+    },
+    {
+        "id": "8186a3c1-7981-4651-9afb-8ba95e0cc119",
+        "word": "HOLINESS",
+        "difficulty": "Advanced",
+        "category": "God�s Attributes",
+        "verse": "1 Peter 1:16",
+        "explanation": "Being set apart for God",
+        "hints": [
+            "God is this",
+            "We are called to be this",
+            "It means purity",
+            "It reflects God"
+        ]
+    },
+    {
+        "id": "04350c9f-9c4f-449c-bb28-3f38050ae4db",
+        "word": "HOPE",
+        "difficulty": "Intermediate",
+        "category": "Core Christian Words",
+        "verse": "Romans 15:13",
+        "explanation": "Confident expectation in God",
+        "hints": [
+            "It gives joy",
+            "It comes from God",
+            "It does not disappoint",
+            "It looks to the future"
+        ]
+    },
+    {
+        "id": "c7ebeb5f-c079-46d2-bde8-367215a1f9ed",
+        "word": "INTERCESSION",
+        "difficulty": "Advanced",
+        "category": "Christian Actions",
+        "verse": "Romans 8:26",
+        "explanation": "Praying for others",
+        "hints": [
+            "Jesus does this",
+            "The Holy Spirit helps",
+            "It stands in the gap",
+            "It involves prayer"
+        ]
+    },
+    {
+        "id": "370d059b-17aa-4d79-ab45-38aa4f45381c",
+        "word": "KING",
+        "difficulty": "Beginner",
+        "category": "Bible Titles",
+        "verse": "Psalm 24:10",
+        "explanation": "A ruler with authority",
+        "hints": [
+            "David was one",
+            "Jesus is called this",
+            "He rules with power",
+            "He wears a crown"
+        ]
+    },
+    {
+        "id": "07097f26-d588-42cc-8d85-420f05e21094",
+        "word": "KINGDOM",
+        "difficulty": "Intermediate",
+        "category": "Bible Themes",
+        "verse": "Matthew 6:33",
+        "explanation": "God�s rule and reign",
+        "hints": [
+            "Jesus preached about it",
+            "We should seek it first",
+            "It belongs to God",
+            "It is eternal"
+        ]
+    },
+    {
+        "id": "4384397e-a969-4211-a5aa-7e5c1747aadb",
+        "word": "LAMB",
+        "difficulty": "Beginner",
+        "category": "Biblical Symbols",
+        "verse": "John 1:29",
+        "explanation": "A symbol of sacrifice",
+        "hints": [
+            "Used in sacrifices",
+            "Jesus is called this",
+            "It takes away sin",
+            "It is gentle"
+        ]
+    },
+    {
+        "id": "996d72bb-5b63-40f1-a892-78ccaab72423",
+        "word": "LIGHT",
+        "difficulty": "Beginner",
+        "category": "Biblical Symbols",
+        "verse": "John 8:12",
+        "explanation": "Represents truth and goodness",
+        "hints": [
+            "Jesus is called this",
+            "It shines in darkness",
+            "It shows the way",
+            "It removes darkness"
+        ]
+    },
+    {
+        "id": "5c812489-12e8-4026-a4f0-d331cf5ad51a",
+        "word": "LOVE",
+        "difficulty": "Beginner",
+        "category": "Core Christian Words",
+        "verse": "1 John 4:8",
+        "explanation": "God’s nature toward people",
+        "hints": [
+            "God is described as this",
+            "It is the greatest commandment",
+            "1 Corinthians 13 explains it",
+            "It never fails"
+        ]
+    },
+    {
+        "id": "ff521c21-7487-469c-9fd9-0a4dc0133cca",
+        "word": "MERCY",
+        "difficulty": "Intermediate",
+        "category": "God�s Attributes",
+        "verse": "Psalm 103:8",
+        "explanation": "God�s compassion and forgiveness",
+        "hints": [
+            "God is full of this",
+            "It withholds punishment",
+            "David spoke about it",
+            "It is everlasting"
+        ]
+    },
+    {
+        "id": "21f3391c-790d-4a87-a831-a40a60a2651b",
+        "word": "PEACE",
+        "difficulty": "Intermediate",
+        "category": "Christian Virtues",
+        "verse": "Philippians 4:7",
+        "explanation": "Calm that comes from God",
+        "hints": [
+            "It guards hearts",
+            "Jesus gives this",
+            "It passes understanding",
+            "It calms fear"
+        ]
+    },
+    {
+        "id": "3dfbe2e4-2e26-4c33-9fa1-db4d2db83609",
+        "word": "PRAY",
+        "difficulty": "Beginner",
+        "category": "Christian Actions",
+        "verse": "1 Thessalonians 5:17",
+        "explanation": "Talking to God",
+        "hints": [
+            "Jesus often did this alone",
+            "Daniel did this daily",
+            "It connects you to God",
+            "You can do it anytime"
+        ]
+    },
+    {
+        "id": "0c17fbb1-902c-4495-9da3-24aca20011c2",
+        "word": "PROMISE",
+        "difficulty": "Intermediate",
+        "category": "Bible Themes",
+        "verse": "2 Corinthians 1:20",
+        "explanation": "God�s guaranteed word",
+        "hints": [
+            "God never breaks this",
+            "Abraham received one",
+            "It is fulfilled in Christ",
+            "It brings assurance"
+        ]
+    },
+    {
+        "id": "7b5bc04d-5a44-4671-b59a-62823a80e87c",
+        "word": "PROPHECY",
+        "difficulty": "Advanced",
+        "category": "Bible Concepts",
+        "verse": "2 Peter 1:21",
+        "explanation": "Message from God",
+        "hints": [
+            "Spoken by prophets",
+            "It foretells events",
+            "It is inspired",
+            "It comes from God"
+        ]
+    },
+    {
+        "id": "1d590142-dd0d-4eab-a686-6ae53a2a8506",
+        "word": "REDEMPTION",
+        "difficulty": "Advanced",
+        "category": "Core Christian Words",
+        "verse": "Ephesians 1:7",
+        "explanation": "Being bought back from sin",
+        "hints": [
+            "It involves a price",
+            "Jesus paid for it",
+            "It brings freedom",
+            "It comes through blood"
+        ]
+    },
+    {
+        "id": "60cc71e4-8f6e-47dc-b9a8-5dde1f423421",
+        "word": "REPENTANCE",
+        "difficulty": "Advanced",
+        "category": "Christian Actions",
+        "verse": "Acts 3:19",
+        "explanation": "Turning away from sin",
+        "hints": [
+            "It involves change",
+            "John preached it",
+            "It leads to forgiveness",
+            "It changes direction"
+        ]
+    },
+    {
+        "id": "f0068238-c315-408f-81e1-927b3821a312",
+        "word": "RESURRECTION",
+        "difficulty": "Advanced",
+        "category": "Bible Events",
+        "verse": "John 11:25",
+        "explanation": "Rising from the dead",
+        "hints": [
+            "Jesus did this",
+            "It gives hope",
+            "Paul preached it",
+            "It defeated death"
+        ]
+    },
+    {
+        "id": "2390cfe9-8560-49e2-b37f-a9092b9c2fb6",
+        "word": "RIGHTEOUSNESS",
+        "difficulty": "Advanced",
+        "category": "Christian Virtues",
+        "verse": "Matthew 6:33",
+        "explanation": "Right standing with God",
+        "hints": [
+            "It comes by faith",
+            "Abraham had it",
+            "We should seek it",
+            "It pleases God"
+        ]
+    },
+    {
+        "id": "9843cc85-d9fc-41cb-bf9d-6a777d7e0823",
+        "word": "SHEPHERD",
+        "difficulty": "Intermediate",
+        "category": "Bible Roles",
+        "verse": "Psalm 23:1",
+        "explanation": "One who leads and protects",
+        "hints": [
+            "David was one",
+            "Jesus is the Good one",
+            "He guides sheep",
+            "He protects the flock"
+        ]
+    },
+    {
+        "id": "ed822d71-4b6a-43a8-9899-2a579a82c66e",
+        "word": "STAR",
+        "difficulty": "Beginner",
+        "category": "Bible Signs",
+        "verse": "Matthew 2:2",
+        "explanation": "Guided wise men",
+        "hints": [
+            "Appeared at Jesus� birth",
+            "Led people to Jesus",
+            "Shined in the sky",
+            "It was a sign"
+        ]
+    },
+    {
+        "id": "08d37bcc-628d-4ef2-abb2-defd51071504",
+        "word": "TEMPLE",
+        "difficulty": "Intermediate",
+        "category": "Bible Places",
+        "verse": "1 Corinthians 6:19",
+        "explanation": "God�s dwelling place",
+        "hints": [
+            "God lived there",
+            "Our bodies are called this",
+            "It was in Jerusalem",
+            "It was holy"
+        ]
+    },
+    {
+        "id": "27fef935-dbc2-4b1e-afd2-a32fbea735d5",
+        "word": "TRUTH",
+        "difficulty": "Intermediate",
+        "category": "Core Christian Words",
+        "verse": "John 14:6",
+        "explanation": "What is real and right",
+        "hints": [
+            "Jesus is this",
+            "It sets people free",
+            "It never changes",
+            "It comes from God"
+        ]
+    },
+    {
+        "id": "1b33aa43-df5e-48a1-b157-2a89917a24e9",
+        "word": "WISDOM",
+        "difficulty": "Intermediate",
+        "category": "Christian Virtues",
+        "verse": "James 1:5",
+        "explanation": "Knowing how to live rightly",
+        "hints": [
+            "God gives this freely",
+            "Solomon asked for it",
+            "It helps decisions",
+            "It comes from God"
+        ]
+    },
+    {
+        "id": "e30b36cd-0382-4e54-a094-bb5b7f354668",
+        "word": "PHARAOH",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 7:1",
+        "explanation": "King of Egypt who opposed God",
+        "hints": [
+            "He ruled Egypt",
+            "He refused to let Israel go",
+            "His heart was hardened",
+            "God showed power over him"
+        ]
+    },
+    {
+        "id": "770f8585-ae61-4485-a0a9-78ff8847745f",
+        "word": "AARON",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 7:2",
+        "explanation": "Spokesman for Moses",
+        "hints": [
+            "Brother of Moses",
+            "He spoke to Pharaoh",
+            "God used him",
+            "He obeyed God"
+        ]
+    },
+    {
+        "id": "83fe0a77-0d8f-4dd2-a36e-4d0e860d9c33",
+        "word": "PLAGUE",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 7:4",
+        "explanation": "Disasters sent by God",
+        "hints": [
+            "They came on Egypt",
+            "They showed God’s power",
+            "There were many",
+            "They forced a decision"
+        ]
+    },
+    {
+        "id": "036bc376-7e10-48d3-ab11-dd4105cd02e0",
+        "word": "PASSOVER",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 12:13",
+        "explanation": "God’s protection for Israel",
+        "hints": [
+            "Blood was a sign",
+            "It spared the firstborn",
+            "God passed over homes",
+            "It brought freedom"
+        ]
+    },
+    {
+        "id": "ac00ea86-972a-4e1d-9f49-2daaf3c2ead8",
+        "word": "COMMANDMENTS",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Exodus 20:1",
+        "explanation": "God’s laws for living",
+        "hints": [
+            "God spoke them",
+            "They guided Israel",
+            "They showed right and wrong",
+            "They honored God"
+        ]
+    },
+    {
+        "id": "03754c63-6098-47c0-8da3-495ca4075575",
+        "word": "DELIVERANCE",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Exodus 14:30",
+        "explanation": "God rescuing His people",
+        "hints": [
+            "Israel was saved",
+            "God used power",
+            "They left Egypt",
+            "Freedom followed"
+        ]
+    },
+    {
+        "id": "82267ec6-1e28-4a45-9d71-f31659c39a0e",
+        "word": "JUSTICE",
+        "difficulty": "Advanced",
+        "category": "Bible Reading",
+        "verse": "Exodus 23:6",
+        "explanation": "Doing what is right",
+        "hints": [
+            "God cares about fairness",
+            "It protects the weak",
+            "God commands it",
+            "It reflects God’s character"
+        ]
+    },
+    {
+        "id": "cdebabf8-3151-4c14-a457-effe08222e59",
+        "word": "PROVISION",
+        "difficulty": "Advanced",
+        "category": "Bible Reading",
+        "verse": "Exodus 16:15",
+        "explanation": "God supplying needs",
+        "hints": [
+            "God gave food",
+            "Israel depended on Him",
+            "It came daily",
+            "It built trust"
+        ]
+    },
+    {
+        "id": "604034fe-43aa-468b-a6f5-446ad250d7ca",
+        "word": "JESUS",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Matthew 16:16",
+        "explanation": "Son of God and Savior",
+        "hints": [
+            "He taught crowds",
+            "He healed people",
+            "He showed compassion",
+            "He revealed God"
+        ]
+    },
+    {
+        "id": "d8920ff0-4c81-44dc-bd77-a6b7b5a8f8bb",
+        "word": "CHILD",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Matthew 18:2",
+        "explanation": "Example of humility",
+        "hints": [
+            "Jesus used this example",
+            "It shows humility",
+            "God values them",
+            "The kingdom belongs to them"
+        ]
+    },
+    {
+        "id": "7a4dc7fc-31bd-42db-b972-cbcfea7c52e4",
+        "word": "PRAYER",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Matthew 17:21",
+        "explanation": "Talking with God",
+        "hints": [
+            "Jesus taught about it",
+            "It requires faith",
+            "It brings results",
+            "God hears it"
+        ]
+    },
+    {
+        "id": "358db6cf-a516-4dcd-8b7d-406961c8987b",
+        "word": "HUMILITY",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Matthew 18:4",
+        "explanation": "Being lowly in heart",
+        "hints": [
+            "Jesus taught it",
+            "Children show it",
+            "God honors it",
+            "It leads to greatness"
+        ]
+    },
+    {
+        "id": "a9bce784-143a-4e3e-b095-be45fcd243f1",
+        "word": "FORGIVENESS",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Matthew 18:22",
+        "explanation": "Letting go of wrongs",
+        "hints": [
+            "Jesus taught this",
+            "It has no limit",
+            "It restores relationships",
+            "God expects it"
+        ]
+    },
+    {
+        "id": "84537cd7-cab3-40af-9612-b87a2c806044",
+        "word": "COMPASSION",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Matthew 15:32",
+        "explanation": "Caring for others",
+        "hints": [
+            "Jesus showed this",
+            "It moved Him to act",
+            "It feeds the hungry",
+            "It heals the hurting"
+        ]
+    },
+    {
+        "id": "7de7937f-28a4-4087-8052-64383040c3bc",
+        "word": "EGYPT",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 7:5",
+        "explanation": "Land where Israel was enslaved",
+        "hints": [
+            "Israel lived here",
+            "Pharaoh ruled here",
+            "Plagues happened here",
+            "God showed power here"
+        ]
+    },
+    {
+        "id": "bf5d0dec-8c1c-40bc-b740-32af418dab66",
+        "word": "STAFF",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 7:10",
+        "explanation": "Rod used by Moses",
+        "hints": [
+            "It turned into a snake",
+            "God used it",
+            "It showed power",
+            "It obeyed God"
+        ]
+    },
+    {
+        "id": "8f483faf-0f00-495a-9c6f-dd7b88298043",
+        "word": "BLOOD",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 7:20",
+        "explanation": "First plague sign",
+        "hints": [
+            "Water turned to this",
+            "It affected the Nile",
+            "It was a warning",
+            "It showed judgment"
+        ]
+    },
+    {
+        "id": "61fc2339-2f92-43ad-ab96-940f5808479d",
+        "word": "FROGS",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 8:6",
+        "explanation": "Second plague animals",
+        "hints": [
+            "They covered Egypt",
+            "They came everywhere",
+            "Pharaoh begged",
+            "God removed them"
+        ]
+    },
+    {
+        "id": "0e9d897e-1484-4d6c-b713-2bf8258ea41b",
+        "word": "DARKNESS",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 10:22",
+        "explanation": "Plague of no light",
+        "hints": [
+            "Egypt could not see",
+            "Israel had light",
+            "It lasted days",
+            "It showed God’s control"
+        ]
+    },
+    {
+        "id": "b88e542c-98da-4adc-80fa-55e3cecfb918",
+        "word": "FIRSTBORN",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 12:29",
+        "explanation": "Oldest child in families",
+        "hints": [
+            "They were judged",
+            "Israel was spared",
+            "Passover protected them",
+            "It caused Pharaoh to yield"
+        ]
+    },
+    {
+        "id": "0d253927-87b6-4adf-8f8c-c069d9696df5",
+        "word": "BLOODPOST",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 12:7",
+        "explanation": "Door marking for protection",
+        "hints": [
+            "Blood was applied",
+            "Angel passed over",
+            "It saved lives",
+            "It showed obedience"
+        ]
+    },
+    {
+        "id": "cb1add7f-9523-48e4-8d87-21a76fc3699a",
+        "word": "JOURNEY",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 13:17",
+        "explanation": "Travel from Egypt",
+        "hints": [
+            "Israel began this",
+            "God led them",
+            "It required trust",
+            "Freedom was ahead"
+        ]
+    },
+    {
+        "id": "c61429e2-c075-4e7f-9f18-13e718002798",
+        "word": "FREEDOM",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 13:3",
+        "explanation": "Release from slavery",
+        "hints": [
+            "Israel gained this",
+            "God provided it",
+            "It followed obedience",
+            "It changed their lives"
+        ]
+    },
+    {
+        "id": "68f285f3-7979-4dbc-b9e4-e8e96892d911",
+        "word": "WILDERNESS",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Exodus 16:1",
+        "explanation": "Desert place",
+        "hints": [
+            "Israel traveled here",
+            "God provided food",
+            "Faith was tested",
+            "God guided them"
+        ]
+    },
+    {
+        "id": "1b762837-e031-4b94-b4ed-caa4de368d58",
+        "word": "SIGNS",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Exodus 7:3",
+        "explanation": "Miracles from God",
+        "hints": [
+            "They showed power",
+            "They warned Pharaoh",
+            "God used them",
+            "They proved authority"
+        ]
+    },
+    {
+        "id": "3cc80a6b-9a58-4805-bc06-77bffed9c914",
+        "word": "WONDERS",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Exodus 7:3",
+        "explanation": "Amazing acts of God",
+        "hints": [
+            "They amazed people",
+            "They showed God’s might",
+            "They brought fear",
+            "They revealed truth"
+        ]
+    },
+    {
+        "id": "4cbcbdbe-ef5d-448d-9896-a63d28b6ba95",
+        "word": "HARDENING",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Exodus 9:12",
+        "explanation": "Stubborn refusal",
+        "hints": [
+            "Pharaoh experienced this",
+            "He would not listen",
+            "God allowed it",
+            "It delayed freedom"
+        ]
+    },
+    {
+        "id": "e8c285dd-9065-422a-9a1b-d4e255593879",
+        "word": "SACRIFICE",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Exodus 12:27",
+        "explanation": "Offering to God",
+        "hints": [
+            "Lamb was offered",
+            "It involved blood",
+            "It brought protection",
+            "It honored God"
+        ]
+    },
+    {
+        "id": "3e3a91b4-9dff-4552-8e5f-771292906e02",
+        "word": "PROTECTION",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Exodus 12:13",
+        "explanation": "God’s covering",
+        "hints": [
+            "Blood provided this",
+            "Israel was safe",
+            "God promised it",
+            "It saved lives"
+        ]
+    },
+    {
+        "id": "2634781e-4967-426c-ba22-d4865703d46f",
+        "word": "FEAR",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Exodus 14:10",
+        "explanation": "Feeling of danger",
+        "hints": [
+            "Israel felt this",
+            "God reassured them",
+            "Faith overcame it",
+            "God fought for them"
+        ]
+    },
+    {
+        "id": "18435179-ebe3-458e-9808-a442e47c875e",
+        "word": "TRUST",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Exodus 14:31",
+        "explanation": "Confidence in God",
+        "hints": [
+            "Israel learned this",
+            "It grew through miracles",
+            "It follows obedience",
+            "It pleases God"
+        ]
+    },
+    {
+        "id": "682d5c93-6212-4a0a-86bd-42ed739a1eea",
+        "word": "LAW",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Exodus 20:1",
+        "explanation": "God’s instructions",
+        "hints": [
+            "Given at Sinai",
+            "It guided Israel",
+            "It revealed holiness",
+            "It required obedience"
+        ]
+    },
+    {
+        "id": "d2898efc-71ed-4935-961e-3de418e6621d",
+        "word": "CONSECRATION",
+        "difficulty": "Advanced",
+        "category": "Bible Reading",
+        "verse": "Exodus 19:10",
+        "explanation": "Preparation for God",
+        "hints": [
+            "People washed",
+            "They waited",
+            "God appeared",
+            "It required obedience"
+        ]
+    },
+    {
+        "id": "e6b19bee-8821-4502-aa03-5cd985437639",
+        "word": "JUDGMENT",
+        "difficulty": "Advanced",
+        "category": "Bible Reading",
+        "verse": "Exodus 12:12",
+        "explanation": "God’s punishment of sin",
+        "hints": [
+            "Egypt experienced this",
+            "God was just",
+            "Israel was spared",
+            "It showed holiness"
+        ]
+    },
+    {
+        "id": "942260e5-a42b-4b9e-98ea-e3fd081fcc21",
+        "word": "OBEDIENCE",
+        "difficulty": "Advanced",
+        "category": "Bible Reading",
+        "verse": "Exodus 19:5",
+        "explanation": "Doing what God says",
+        "hints": [
+            "Israel was called to it",
+            "Blessing followed it",
+            "It showed faith",
+            "It honored God"
+        ]
+    },
+    {
+        "id": "06e144ce-be73-48f3-a4a1-522a5c1d8183",
+        "word": "FAITHFULNESS",
+        "difficulty": "Advanced",
+        "category": "Bible Reading",
+        "verse": "Exodus 13:3",
+        "explanation": "God keeping His word",
+        "hints": [
+            "God remembered Israel",
+            "He delivered them",
+            "He protected them",
+            "He fulfilled promises"
+        ]
+    },
+    {
+        "id": "9f8b27f6-5bff-4851-9b97-228f1a0674c3",
+        "word": "TRADITION",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Matthew 15:3",
+        "explanation": "Customs of people",
+        "hints": [
+            "Pharisees followed this",
+            "Jesus challenged it",
+            "It replaced God’s word",
+            "It caused conflict"
+        ]
+    },
+    {
+        "id": "03d7571e-b893-4dfd-ba4d-f8e8d7981277",
+        "word": "HEART",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Matthew 15:18",
+        "explanation": "Inner thoughts",
+        "hints": [
+            "Jesus spoke about this",
+            "It shows character",
+            "God sees it",
+            "It matters most"
+        ]
+    },
+    {
+        "id": "8006b4e7-9332-43f9-ad00-85e72806536f",
+        "word": "HEALING",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Matthew 15:30",
+        "explanation": "Restoring health",
+        "hints": [
+            "Jesus did this",
+            "Many were healed",
+            "It showed compassion",
+            "It revealed power"
+        ]
+    },
+    {
+        "id": "6b68a6b6-943f-4d1c-ade9-ee98fd5e7051",
+        "word": "MIRACLE",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Matthew 15:36",
+        "explanation": "Supernatural act",
+        "hints": [
+            "Jesus performed many",
+            "Crowds witnessed them",
+            "They increased faith",
+            "They glorified God"
+        ]
+    },
+    {
+        "id": "82df70db-a02c-4076-9698-5c665632cc10",
+        "word": "MOUNTAIN",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Matthew 17:1",
+        "explanation": "High place",
+        "hints": [
+            "Jesus went here",
+            "Transfiguration happened",
+            "God revealed glory",
+            "Disciples were present"
+        ]
+    },
+    {
+        "id": "10638e62-4541-492e-8e3c-e0ce8417ad1c",
+        "word": "GLORY",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Matthew 17:2",
+        "explanation": "God’s revealed greatness",
+        "hints": [
+            "Jesus shone",
+            "Disciples saw it",
+            "It showed divinity",
+            "It caused awe"
+        ]
+    },
+    {
+        "id": "8213ce3e-6049-4848-9896-275782f0b816",
+        "word": "VOICE",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Matthew 17:5",
+        "explanation": "God speaking",
+        "hints": [
+            "It came from heaven",
+            "It affirmed Jesus",
+            "Disciples heard it",
+            "It commanded obedience"
+        ]
+    },
+    {
+        "id": "13c78762-6428-4808-baf8-7e4dbe04c264",
+        "word": "CHILDLIKE",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Matthew 18:3",
+        "explanation": "Simple trust",
+        "hints": [
+            "Jesus praised this",
+            "It shows humility",
+            "It enters the kingdom",
+            "It requires faith"
+        ]
+    },
+    {
+        "id": "a4f532bc-8083-4cbd-8233-d625b5950a52",
+        "word": "OFFENSE",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Matthew 18:7",
+        "explanation": "Cause of sin",
+        "hints": [
+            "Jesus warned about it",
+            "It harms others",
+            "It brings judgment",
+            "It should be avoided"
+        ]
+    },
+    {
+        "id": "5d6ec192-a495-4fbc-a4a1-f589c2531995",
+        "word": "SERVANT",
+        "difficulty": "Beginner",
+        "category": "Bible Reading",
+        "verse": "Matthew 18:23",
+        "explanation": "One who serves",
+        "hints": [
+            "Parable included this",
+            "It owed a debt",
+            "It needed forgiveness",
+            "It taught mercy"
+        ]
+    },
+    {
+        "id": "a4efe9e1-8d08-4a80-b094-4d4ff987f57e",
+        "word": "DISCIPLINE",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Matthew 18:15",
+        "explanation": "Correction in love",
+        "hints": [
+            "Jesus taught steps",
+            "It restores people",
+            "It protects unity",
+            "It requires wisdom"
+        ]
+    },
+    {
+        "id": "6cfa37af-9362-4b06-a0e1-cd9de3a2135a",
+        "word": "AGREEMENT",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Matthew 18:19",
+        "explanation": "Unity in prayer",
+        "hints": [
+            "Jesus promised power",
+            "It requires unity",
+            "God listens",
+            "It brings results"
+        ]
+    },
+    {
+        "id": "507e4f22-6ebd-4712-8db9-86b8842ba018",
+        "word": "CONFESSION",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Matthew 16:16",
+        "explanation": "Declaration of faith",
+        "hints": [
+            "Peter made it",
+            "Jesus affirmed it",
+            "It revealed truth",
+            "It came by revelation"
+        ]
+    },
+    {
+        "id": "d2058778-00c5-4b3e-bd30-31644c8a02fe",
+        "word": "DOUBT",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Matthew 17:17",
+        "explanation": "Lack of trust",
+        "hints": [
+            "Jesus rebuked it",
+            "It hinders faith",
+            "Prayer helps overcome it",
+            "Faith replaces it"
+        ]
+    },
+    {
+        "id": "d628cf1d-982d-4c91-a9ae-ae3639044592",
+        "word": "MARRIAGE",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Matthew 19:6",
+        "explanation": "Union by God",
+        "hints": [
+            "Jesus taught about it",
+            "God joins couples",
+            "It is permanent",
+            "It requires commitment"
+        ]
+    },
+    {
+        "id": "38907212-d699-4028-8422-1670f7c9f0f3",
+        "word": "CHILDREN",
+        "difficulty": "Intermediate",
+        "category": "Bible Reading",
+        "verse": "Matthew 19:14",
+        "explanation": "Valued by God",
+        "hints": [
+            "Jesus welcomed them",
+            "Kingdom belongs to them",
+            "They show humility",
+            "They matter to God"
+        ]
+    },
+    {
+        "id": "ddf3816e-bed6-4fb9-9a63-75d8af6bee4c",
+        "word": "REVELATION",
+        "difficulty": "Advanced",
+        "category": "Bible Reading",
+        "verse": "Matthew 16:17",
+        "explanation": "Truth revealed by God",
+        "hints": [
+            "Peter received it",
+            "Not from humans",
+            "God gives it",
+            "It builds faith"
+        ]
+    },
+    {
+        "id": "9bca8bff-9404-4d8c-bef6-53e5ac16c8b1",
+        "word": "TRANSFORMATION",
+        "difficulty": "Advanced",
+        "category": "Bible Reading",
+        "verse": "Matthew 17:2",
+        "explanation": "Change in form",
+        "hints": [
+            "Jesus was transfigured",
+            "Glory appeared",
+            "Disciples witnessed it",
+            "It revealed divinity"
+        ]
+    },
+    {
+        "id": "a9959d4c-bd07-4799-bcf1-9fa16f98b1f7",
+        "word": "SUBMISSION",
+        "difficulty": "Advanced",
+        "category": "Bible Reading",
+        "verse": "Matthew 16:24",
+        "explanation": "Yielding to God",
+        "hints": [
+            "Jesus taught it",
+            "Self-denial required",
+            "It follows obedience",
+            "It leads to life"
+        ]
+    },
+    {
+        "id": "15b87c7f-97fe-416e-bdd9-02d6cd6913ff",
+        "word": "DISCIPLESHIP",
+        "difficulty": "Advanced",
+        "category": "Bible Reading",
+        "verse": "Matthew 16:24",
+        "explanation": "Following Jesus",
+        "hints": [
+            "Requires sacrifice",
+            "Involves obedience",
+            "Costs comfort",
+            "Leads to life"
+        ]
+    },
+    {
+        "id": "c2cad368-8804-4cc7-9026-0b96aa6b1d5d",
+        "word": "ETERNAL",
+        "difficulty": "Advanced",
+        "category": "Bible Reading",
+        "verse": "Matthew 19:29",
+        "explanation": "Lasting forever",
+        "hints": [
+            "Jesus promised this",
+            "It follows sacrifice",
+            "It is God’s reward",
+            "It never ends"
+        ]
+    },
+    {
+        "id": "e79b927a-f6a4-4ca0-b70d-a7f1576176ca",
+        "word": "REWARD",
+        "difficulty": "Advanced",
+        "category": "Bible Reading",
+        "verse": "Matthew 19:29",
+        "explanation": "Blessing from God",
+        "hints": [
+            "Jesus promised it",
+            "Given to faithful",
+            "Both now and later",
+            "God is generous"
+        ]
+    },
+    {
+        "id": "05a7252a-2c35-4230-bb4d-4123ca8d3866",
+        "word": "ACCOUNTABILITY",
+        "difficulty": "Advanced",
+        "category": "Bible Reading",
+        "verse": "Matthew 18:35",
+        "explanation": "Responsibility before God",
+        "hints": [
+            "Parable teaches it",
+            "God expects forgiveness",
+            "Actions matter",
+            "Judgment follows"
+        ]
+    },
+    {
+        "id": "5818b603-8cfd-4754-ab08-74f3ea261cd0",
+        "word": "MEDITATION",
+        "difficulty": "Beginner",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Biblical meditation is the intentional and continuous focusing of the mind on God�",
+        "hints": [
+            "beliefs",
+            "and actions over time",
+            "leading to inner and outward change.",
+            "It is not emptying the mind"
+        ]
+    },
+    {
+        "id": "aebc653a-4ccd-48e6-8b70-9628d7df707f",
+        "word": "RENEWAL",
+        "difficulty": "Beginner",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Renewal refers to the ongoing process of replacing old",
+        "hints": [
+            "negative",
+            "or worldly thought patterns with truth from God’s Word",
+            "resulting in a transformed outlook on life.",
+            "It happens on the inside"
+        ]
+    },
+    {
+        "id": "5854005b-61a5-4626-bc98-113cf47718be",
+        "word": "WORD",
+        "difficulty": "Beginner",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "The Word of God is living",
+        "hints": [
+            "powerful truth that carries divine life and wisdom and has the ability to change thinking",
+            "heal the soul",
+            "and transform lives.",
+            "It is alive"
+        ]
+    },
+    {
+        "id": "0564622e-13f8-48e5-89f3-7945799a984e",
+        "word": "SEED",
+        "difficulty": "Beginner",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "A seed represents how God's word works quietly and progressively within the heart",
+        "hints": [
+            "growing over time to produce a harvest of change.",
+            "Words are like seeds",
+            "Seeds grow over time",
+            "Growth is not instant"
+        ]
+    },
+    {
+        "id": "cd06fbd0-39bd-4255-9fc6-29cd607032c4",
+        "word": "FOCUS",
+        "difficulty": "Beginner",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Focus is the deliberate choice to keep attention on God's  Word and truth",
+        "hints": [
+            "allowing it to dominate thoughts instead of worry or fear.",
+            "You choose it",
+            "It shapes thoughts",
+            "It affects emotions"
+        ]
+    },
+    {
+        "id": "22bea3c7-19c6-4251-9f9a-7907146841f4",
+        "word": "LIFE",
+        "difficulty": "Beginner",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Life refers to God's quality of living that flows from His Word",
+        "hints": [
+            "bringing vitality",
+            "purpose",
+            "joy",
+            "and spiritual strength from within."
+        ]
+    },
+    {
+        "id": "a4b3194c-1167-4d93-a99e-1d1518b2c8f9",
+        "word": "MIND",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "The mind is the center of thought and decision-making and must be continually renewed by God's  Word to align with spiritual truth.",
+        "hints": [
+            "It directs life",
+            "It must be renewed",
+            "It responds to truth",
+            "It affects outcomes"
+        ]
+    },
+    {
+        "id": "6eb6f0b4-c9ec-4fc5-b93e-f8896755e6c7",
+        "word": "RENEWING",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Renewing is the intentional process of replacing old beliefs and patterns of thinking with God's truth through meditation and reflection.",
+        "hints": [
+            "It takes time",
+            "It requires the Word",
+            "It is intentional",
+            "It produces freedom"
+        ]
+    },
+    {
+        "id": "561ed63a-24a4-4a36-96e4-bc519c245324",
+        "word": "PERSPECTIVE",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Perspective is the lens through which a person interprets life",
+        "hints": [
+            "and faith allows this view to shift from natural thinking to God’s viewpoint.",
+            "It shapes reactions",
+            "Faith adjusts it",
+            "God’s view differs"
+        ]
+    },
+    {
+        "id": "de85c12c-8ce7-47cf-a517-fe42c36e8a23",
+        "word": "UNDERSTANDING",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Understanding is spiritual clarity that grows as the Word is meditated upon",
+        "hints": [
+            "enabling deeper comprehension and confident faith.",
+            "It grows with meditation",
+            "It strengthens faith",
+            "It stabilizes thinking"
+        ]
+    },
+    {
+        "id": "ed10fbe0-6dc5-4745-87e4-e8280dff8206",
+        "word": "STABILITY",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Stability is inner firmness that develops when the mind is anchored in God's  Word",
+        "hints": [
+            "preventing emotional and spiritual collapse under pressure.",
+            "It resists pressure",
+            "It comes from truth",
+            "It prevents wavering"
+        ]
+    },
+    {
+        "id": "98eff8cd-099e-4244-b0f2-04ea5c88db17",
+        "word": "BELIEF",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Belief is what a person accepts as true in the heart",
+        "hints": [
+            "shaping choices",
+            "reactions",
+            "and the overall direction of life.",
+            "It directs actions"
+        ]
+    },
+    {
+        "id": "7aa03c83-9dcd-4267-9a70-22f944833b72",
+        "word": "CONSISTENCY",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Consistency is the steady practice of meditating on God's  Word",
+        "hints": [
+            "allowing gradual but powerful growth to take place.",
+            "It requires discipline",
+            "Growth depends on it",
+            "It builds strength"
+        ]
+    },
+    {
+        "id": "ebdf903c-1eba-4b26-8e26-2cb5dc968c5e",
+        "word": "GROWTH",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Growth is the gradual and progressive development that occurs as God's Word works within the heart over time.",
+        "hints": [
+            "It takes time",
+            "Seeds grow slowly",
+            "Change is progressive",
+            "Results appear later"
+        ]
+    },
+    {
+        "id": "4276d0fe-817c-4260-bc01-884cb1dfc040",
+        "word": "INNERMAN",
+        "difficulty": "Advanced",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "The inner man is the true spiritual self that leads life decisions and must be trained through God's  Word.",
+        "hints": [
+            "It is the real you",
+            "It leads actions",
+            "It must be trained",
+            "It responds to truth"
+        ]
+    },
+    {
+        "id": "780b7bc1-3447-4839-aad3-c467edd689f8",
+        "word": "HARVEST",
+        "difficulty": "Advanced",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Harvest represents the visible results of thoughts and beliefs that have been planted and nurtured over time.",
+        "hints": [
+            "It comes from seeds",
+            "It appears later",
+            "It matches planting",
+            "It cannot be rushed"
+        ]
+    },
+    {
+        "id": "c4fccc5a-1b5f-4f25-9db8-458ce08e43db",
+        "word": "IDENTITY",
+        "difficulty": "Advanced",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Identity is how a person sees themselves",
+        "hints": [
+            "which strongly influences confidence",
+            "choices",
+            "and alignment with God’s purpose.",
+            "It shapes confidence"
+        ]
+    },
+    {
+        "id": "d84dc661-4a29-45cd-bd9c-ee2a50a7f219",
+        "word": "ALIGNMENT",
+        "difficulty": "Advanced",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Alignment is the state of agreement between thoughts",
+        "hints": [
+            "beliefs",
+            "and God’s truth",
+            "allowing life to flow with less resistance.",
+            "Thoughts must align"
+        ]
+    },
+    {
+        "id": "587f84b2-037d-4cb3-98b7-2b743a043d1b",
+        "word": "ATTEND",
+        "difficulty": "Beginner",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "To attend means deliberately giving God's  Word full attention so it takes priority over distractions and reshapes belief.",
+        "hints": [
+            "It requires intention",
+            "It avoids distraction",
+            "It honors the Word",
+            "It increases understanding"
+        ]
+    },
+    {
+        "id": "7574386c-7295-4be2-9056-f450ae3b8753",
+        "word": "INCLINE",
+        "difficulty": "Beginner",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Inclining the heart means choosing openness toward God's truth",
+        "hints": [
+            "creating readiness for growth and transformation.",
+            "It involves the heart",
+            "It shows hunger",
+            "It precedes change"
+        ]
+    },
+    {
+        "id": "954376e1-f50b-4d81-8448-e5cc3b5e2bde",
+        "word": "MEDITATE",
+        "difficulty": "Beginner",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "To meditate is to thoughtfully and repeatedly ponder God's Word until truth becomes belief.",
+        "hints": [
+            "It involves repetition",
+            "It reshapes thinking",
+            "It strengthens belief",
+            "It leads to change"
+        ]
+    },
+    {
+        "id": "8bd81a3c-0f1a-4e28-ac2d-45507d72f5f1",
+        "word": "LIFEFLOW",
+        "difficulty": "Beginner",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Life flow describes the natural outward expression of inner spiritual change produced by God's Word.",
+        "hints": [
+            "It flows from within",
+            "It reflects inner change",
+            "It is not forced",
+            "It reveals truth"
+        ]
+    },
+    {
+        "id": "95073bfc-43f2-4cf9-9a63-0746309ad9a5",
+        "word": "JOY",
+        "difficulty": "Beginner",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Joy is deep inner gladness produced by confidence in God's truth rather than circumstances.",
+        "hints": [
+            "It comes from truth",
+            "It strengthens the heart",
+            "It is not situational",
+            "It sustains faith"
+        ]
+    },
+    {
+        "id": "16ce0d4a-2f86-4172-ac7d-2f094ea591f6",
+        "word": "THOUGHTS",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Thoughts are repeated mental patterns that shape belief",
+        "hints": [
+            "emotion",
+            "and behavior over time.",
+            "They influence behavior",
+            "They shape belief"
+        ]
+    },
+    {
+        "id": "acdc286f-7f81-480e-afb3-af4674e23601",
+        "word": "IMAGINATION",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Imagination is the mind’s ability to picture outcomes that can either fuel fear or strengthen faith.",
+        "hints": [
+            "It pictures outcomes",
+            "It can fuel fear",
+            "It can strengthen faith",
+            "It must be guided"
+        ]
+    },
+    {
+        "id": "d6ce88e9-287c-4df6-b121-1552e80d16e7",
+        "word": "PROCESS",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Change is a gradual process that occurs as the Word reshapes thinking and belief over time.",
+        "hints": [
+            "It takes time",
+            "It is progressive",
+            "It begins internally",
+            "It produces lasting results"
+        ]
+    },
+    {
+        "id": "40053153-3f8e-4046-a50f-2694c667a09d",
+        "word": "MATURITY",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Maturity is spiritual stability developed through consistent exposure to and application of God's Word.",
+        "hints": [
+            "It develops over time",
+            "It resists pressure",
+            "It reflects understanding",
+            "It brings steadiness"
+        ]
+    },
+    {
+        "id": "1e8fa66d-b8fb-42f7-9cd0-2ad363c94833",
+        "word": "PATIENCE",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Patience is remaining confident and steady while God's process of change unfolds.",
+        "hints": [
+            "It waits on results",
+            "It trusts God’s timing",
+            "It supports growth",
+            "It avoids frustration"
+        ]
+    },
+    {
+        "id": "b3b192fa-b684-4dc7-a9a3-6f6cac6b8e33",
+        "word": "TRAINING",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Training involves intentionally shaping thoughts and responses to align with God's truth.",
+        "hints": [
+            "It requires practice",
+            "It reshapes reactions",
+            "It builds consistency",
+            "It strengthens faith"
+        ]
+    },
+    {
+        "id": "205c3652-3ec9-4d80-b3a1-2867524bf428",
+        "word": "REACTION",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Reactions reveal what is truly believed and expose areas where the mind still needs renewal.",
+        "hints": [
+            "They show belief",
+            "They can be trained",
+            "They reveal maturity",
+            "They follow thinking"
+        ]
+    },
+    {
+        "id": "f68ab12c-2bd1-48bf-bc45-56a8174ffb1c",
+        "word": "CONFIDENCE",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Confidence is bold trust rooted in God's Word rather than feelings or circumstances.",
+        "hints": [
+            "It grows with truth",
+            "It resists fear",
+            "It produces stability",
+            "It reflects identity"
+        ]
+    },
+    {
+        "id": "c0a5941d-f8f2-4ca4-91af-19141b85f628",
+        "word": "SELFCONTROL",
+        "difficulty": "Intermediate",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Self-control is governing thoughts and actions through truth instead of impulse or emotion.",
+        "hints": [
+            "It manages reactions",
+            "It requires renewal",
+            "It reflects maturity",
+            "It produces peace"
+        ]
+    },
+    {
+        "id": "bc04d028-f19b-4a06-95e1-dba4a5cd659e",
+        "word": "MANIFESTATION",
+        "difficulty": "Advanced",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Manifestation is the outward expression of inward belief revealed over time.",
+        "hints": [
+            "It reveals belief",
+            "It appears later",
+            "It follows renewal",
+            "It confirms truth"
+        ]
+    },
+    {
+        "id": "1d08c189-a208-4803-a9e9-fb7f3bb5d6ea",
+        "word": "ENDURANCE",
+        "difficulty": "Advanced",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Endurance is remaining faithful and steady as transformation continues over time.",
+        "hints": [
+            "It sustains faith",
+            "It resists discouragement",
+            "It supports growth",
+            "It reflects maturity"
+        ]
+    },
+    {
+        "id": "dba34476-da05-414e-b819-ac48806f63c7",
+        "word": "CLARITY",
+        "difficulty": "Advanced",
+        "category": "Book Reading",
+        "verse": "Effortless Change pp.130–171",
+        "explanation": "Clarity is freedom from confusion produced by alignment with God's truth.",
+        "hints": [
+            "It removes confusion",
+            "It strengthens faith",
+            "It improves decisions",
+            "It reflects renewal"
+        ]
+    }
+]
